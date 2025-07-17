@@ -35,8 +35,8 @@ Before diving in, make sure you have these essentials:
 
 1.  **Clone the Repository (or just download the script):**
     ```bash
-    git clone [https://github.com/arihant4521k/Python-Project.git](https://github.com/arihant4521k/Python-Project.git)
-    cd Python_Project
+    git clone https://github.com/arihant4521k/Python-Project.git
+    cd Python-Project
     ```
 
 2.  **Install `yt-dlp`:**
